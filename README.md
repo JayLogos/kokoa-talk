@@ -2,4 +2,4 @@
 
 kokoa-talk clone coding
 
-CSS got so mush better.
+CSS and HTML got so mush fun.
